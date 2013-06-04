@@ -1,6 +1,7 @@
 *.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.log
+*.err
+td2mysql/.classpath
+td2mysql/.project
+td2mysql/.settings/
+web/.idea/
