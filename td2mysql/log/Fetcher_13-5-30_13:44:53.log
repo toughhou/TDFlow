@@ -1,0 +1,278 @@
+SQL Fetcher Started...
+**********************************2013-05-30 13:44:53
+Set mysql port:3306
+**********************************2013-05-30 13:44:53
+Set mysql insert buffer size:500
+**********************************2013-05-30 13:44:53
+Mysql localhost is connected.
+**********************************2013-05-30 13:44:53
+Teradata martini.vip.ebay.com is connected.
+**********************************2013-05-30 13:44:55
+Start fetching dbc.DBQLogTbl...
+**********************************2013-05-30 13:44:55
+Mysql executing sql:
+delete from flow_dbql_raw
+**********************************2013-05-30 13:45:01
+Affected rows : 17535
+**********************************2013-05-30 13:45:01
+Mysql started insert batch: flow_dbql_raw(SQLRecord)
+**********************************2013-05-30 13:45:02
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 501
+**********************************2013-05-30 13:45:02
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 1002
+**********************************2013-05-30 13:45:03
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 1503
+**********************************2013-05-30 13:45:10
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 2004
+**********************************2013-05-30 13:45:10
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 2505
+**********************************2013-05-30 13:45:11
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 3006
+**********************************2013-05-30 13:45:19
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 3507
+**********************************2013-05-30 13:45:21
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 4008
+**********************************2013-05-30 13:45:27
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 4509
+**********************************2013-05-30 13:45:27
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 5010
+**********************************2013-05-30 13:45:28
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 5511
+**********************************2013-05-30 13:45:33
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 6012
+**********************************2013-05-30 13:45:34
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 6513
+**********************************2013-05-30 13:45:42
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 7014
+**********************************2013-05-30 13:45:43
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 7515
+**********************************2013-05-30 13:45:43
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 8016
+**********************************2013-05-30 13:45:50
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 8517
+**********************************2013-05-30 13:45:50
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 9018
+**********************************2013-05-30 13:45:50
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 9519
+**********************************2013-05-30 13:45:56
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 10020
+**********************************2013-05-30 13:45:57
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 10521
+**********************************2013-05-30 13:46:03
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 11022
+**********************************2013-05-30 13:46:03
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 11523
+**********************************2013-05-30 13:46:12
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 12024
+**********************************2013-05-30 13:46:21
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 12525
+**********************************2013-05-30 13:46:21
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 13026
+**********************************2013-05-30 13:46:27
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 13527
+**********************************2013-05-30 13:46:27
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 14028
+**********************************2013-05-30 13:46:27
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 14529
+**********************************2013-05-30 13:46:32
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 15030
+**********************************2013-05-30 13:46:32
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 15531
+**********************************2013-05-30 13:46:39
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 16032
+**********************************2013-05-30 13:46:39
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 16533
+**********************************2013-05-30 13:46:40
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 17034
+**********************************2013-05-30 13:46:45
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 17535
+**********************************2013-05-30 13:46:45
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 18036
+**********************************2013-05-30 13:46:55
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 18537
+**********************************2013-05-30 13:46:55
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 19038
+**********************************2013-05-30 13:46:55
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 19539
+**********************************2013-05-30 13:47:01
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 20040
+**********************************2013-05-30 13:47:02
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 20541
+**********************************2013-05-30 13:47:07
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 21042
+**********************************2013-05-30 13:47:07
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 21543
+**********************************2013-05-30 13:47:15
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 22044
+**********************************2013-05-30 13:47:15
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 22545
+**********************************2013-05-30 13:47:15
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 23046
+**********************************2013-05-30 13:47:20
+Mysql insert batch:flow_dbql_raw(SQLRecord)Already inserted 23547
+**********************************2013-05-30 13:47:21
+Mysql insert batch:flow_dbql_raw(SQLRecord)Totally inserted 23892
+**********************************2013-05-30 13:47:21
+Mysql insert batch ended:flow_dbql_raw(SQLRecord)
+**********************************2013-05-30 13:47:21
+Ended fetching dbc.DBQLogTbl...
+**********************************2013-05-30 13:47:21
+Start fetching dbc.DBQLObjTbl...
+**********************************2013-05-30 13:47:21
+Mysql executing sql:
+delete from flow_obj_usg_raw
+**********************************2013-05-30 13:47:25
+Affected rows : 34786
+**********************************2013-05-30 13:47:25
+Mysql started insert batch: flow_obj_usg_raw(TableUsage)
+**********************************2013-05-30 13:47:25
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 501
+**********************************2013-05-30 13:47:25
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 1002
+**********************************2013-05-30 13:47:25
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 1503
+**********************************2013-05-30 13:47:25
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 2004
+**********************************2013-05-30 13:47:26
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 2505
+**********************************2013-05-30 13:47:26
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 3006
+**********************************2013-05-30 13:47:26
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 3507
+**********************************2013-05-30 13:47:26
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 4008
+**********************************2013-05-30 13:47:28
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 4509
+**********************************2013-05-30 13:47:28
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 5010
+**********************************2013-05-30 13:47:28
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 5511
+**********************************2013-05-30 13:47:28
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 6012
+**********************************2013-05-30 13:47:28
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 6513
+**********************************2013-05-30 13:47:28
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 7014
+**********************************2013-05-30 13:47:29
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 7515
+**********************************2013-05-30 13:47:29
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 8016
+**********************************2013-05-30 13:47:33
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 8517
+**********************************2013-05-30 13:47:33
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 9018
+**********************************2013-05-30 13:47:33
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 9519
+**********************************2013-05-30 13:47:33
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 10020
+**********************************2013-05-30 13:47:33
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 10521
+**********************************2013-05-30 13:47:33
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 11022
+**********************************2013-05-30 13:47:34
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 11523
+**********************************2013-05-30 13:47:34
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 12024
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 12525
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 13026
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 13527
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 14028
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 14529
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 15030
+**********************************2013-05-30 13:47:38
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 15531
+**********************************2013-05-30 13:47:39
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 16032
+**********************************2013-05-30 13:47:41
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 16533
+**********************************2013-05-30 13:47:41
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 17034
+**********************************2013-05-30 13:47:42
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 17535
+**********************************2013-05-30 13:47:42
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 18036
+**********************************2013-05-30 13:47:42
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 18537
+**********************************2013-05-30 13:47:42
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 19038
+**********************************2013-05-30 13:47:42
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 19539
+**********************************2013-05-30 13:47:42
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 20040
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 20541
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 21042
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 21543
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 22044
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 22545
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 23046
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 23547
+**********************************2013-05-30 13:47:45
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 24048
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 24549
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 25050
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 25551
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 26052
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 26553
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 27054
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 27555
+**********************************2013-05-30 13:47:49
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 28056
+**********************************2013-05-30 13:47:52
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 28557
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 29058
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 29559
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 30060
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 30561
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 31062
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 31563
+**********************************2013-05-30 13:47:53
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 32064
+**********************************2013-05-30 13:47:56
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 32565
+**********************************2013-05-30 13:47:56
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 33066
+**********************************2013-05-30 13:47:56
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 33567
+**********************************2013-05-30 13:47:56
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 34068
+**********************************2013-05-30 13:47:56
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 34569
+**********************************2013-05-30 13:47:56
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 35070
+**********************************2013-05-30 13:47:57
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 35571
+**********************************2013-05-30 13:47:57
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Already inserted 36072
+**********************************2013-05-30 13:47:58
+Mysql insert batch:flow_obj_usg_raw(TableUsage)Totally inserted 36572
+**********************************2013-05-30 13:47:58
+Mysql insert batch ended:flow_obj_usg_raw(TableUsage)
+**********************************2013-05-30 13:47:58
+Ended fetching dbc.DBQLObjTbl...
+**********************************2013-05-30 13:47:58
